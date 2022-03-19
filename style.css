@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+    background-color:linear-gradient(yellow, red); 
+}
+
+
+#myCarousel
+{
+    background-image:linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+
